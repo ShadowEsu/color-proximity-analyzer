@@ -1,0 +1,7 @@
+{
+  "name": "ChromaCompare - Perceptual Color Matching",
+  "description": "A precision color comparison tool that samples live camera frames and calculates perceptual differences (Delta E) between a sample and two reference points.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
